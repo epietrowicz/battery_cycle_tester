@@ -6,9 +6,6 @@ State prevState;
 
 long currentTime;
 long lastTime;
-const long period = 5 * (60 * 60 * 1000);
-
-const float dischargeThreshold = 2.9;
 
 const int chargeStatus = 0;
 const int chargeEnableLV = 1;
@@ -85,12 +82,14 @@ void loop()
     Serial.println("error opening datalog.txt");
   }
 
+  * / Take a reading every 5 minutes * /
   delay(5 * 60 * 1000);
 
   prevState = state;
 
   Serial.println(digitalRead(chargeStatus));
 
+  // TODO: Change this (for voltage divider)
   if ((analogRead(batteryADC) < 3600) && (state == DISCHARGING)) {
     state = CHARGING;
     Serial.println("charging");
@@ -110,7 +109,7 @@ void loop()
       digitalWrite(drainIndicator, LOW);
       digitalWrite(chargeIndicator, HIGH);
       delay(100);
-      //rechargeCount++;
+      //TODO: read & log temperature
     } else if (state == DISCHARGING) {
       digitalWrite(chargeEnableLV, HIGH);
       delay(100);
@@ -119,6 +118,7 @@ void loop()
       digitalWrite(drainIndicator, HIGH);
       digitalWrite(chargeIndicator, LOW);
       delay(100);
+      //TODO: read & log temperature
     }
   }
 }
