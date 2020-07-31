@@ -82,7 +82,7 @@ void loop()
     Serial.println("error opening datalog.txt");
   }
 
-  * / Take a reading every 5 minutes * /
+  /* Take a reading every 5 minutes */
   delay(5 * 60 * 1000);
 
   prevState = state;
