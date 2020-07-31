@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=P4-4
+Removed Pin From Net: NetName=NetP3_2 Pin=R4-2
+Removed Pin From Net: NetName=NetP3_2 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=NetP3_2 Pin=STAT-1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change Component Designator: OldDesignator=VBATT NewDesignator=Vbatt1
+Added Component: Designator=P5(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP4_3 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-3
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetU1_3 New Net Name=NetU3_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_5 Pin=P4-5
+Added Pin To Net: NetName=NetP4_5 Pin=P5-2
+Added Net: Name=NetP4_5
+Added Pin To Net: NetName=NetR12_1 Pin=U1-1
+Added Net: Name=NetR12_1
+Added Net: Name=NetR13_1
+Added Class: Name=schem0
+Added Class: Name=schem1
+Added Room: Name=schem0
+Added Room: Name=schem1

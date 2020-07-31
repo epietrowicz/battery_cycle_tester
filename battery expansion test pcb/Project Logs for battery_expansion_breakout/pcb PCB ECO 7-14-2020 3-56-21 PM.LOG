@@ -1,0 +1,28 @@
+Added Component: Designator=C3(Cap 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=stat1(test pad)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=R8-1
+Added Pin To Net: NetName=NetP4_4 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetP4_4 Pin=R9-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetP3_2 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetR13_1 Pin=stat1-1
+Added Member To Class: ClassName=schem1 Member=Component C3 CAP
+Added Member To Class: ClassName=schem1 Member=Component R8 RES
+Added Member To Class: ClassName=schem1 Member=Component R9 RES
+Added Member To Class: ClassName=schem1 Member=Component R12 RES
+Added Member To Class: ClassName=schem1 Member=Component R13 RES
+Added Member To Class: ClassName=schem1 Member=Component stat1 charge_stat

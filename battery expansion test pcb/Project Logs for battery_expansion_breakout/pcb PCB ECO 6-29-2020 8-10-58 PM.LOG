@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetP3_2 Pin=Chrg-1
+Removed Pin From Net: NetName=NetP3_2 Pin=U3-1
+Change Component Designator: OldDesignator=Chrg NewDesignator=stat1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=Vbatt NewDesignator=Vbatt1
+Added Pin To Net: NetName=NetR4_1 Pin=stat1-1
+Added Pin To Net: NetName=NetR4_1 Pin=U3-1
+Added Net: Name=NetR4_1

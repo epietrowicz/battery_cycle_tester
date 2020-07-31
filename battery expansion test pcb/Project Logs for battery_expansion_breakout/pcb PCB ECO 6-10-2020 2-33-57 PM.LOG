@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U5 Old Footprint=SOT105P240X110-3N New Footprint=DMN63D8LW
+Change Component Footprint: Designator=U6 Old Footprint=SOT105P240X110-3N New Footprint=DMN63D8LW
+Change Component Comment : Designator=U5 Old Comment=DMG2305UX New Comment=DMN63D8LW
+Change Component Comment : Designator=U6 Old Comment=DMG2305UX New Comment=DMN63D8LW
+Change Component Designator: OldDesignator=Chrg NewDesignator=stat1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=Vbatt NewDesignator=Vbatt1
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOT105P240X110-3N"; UniqueID = "\ZBJGWMLD" ("\ZBJGWMLD")
+Change component parameters (AddParameter): Name = ""; Value = "NMOS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT105P240X110-3N"; UniqueID = "\OBCMFQBB" ("\OBCMFQBB")
+Change component parameters (AddParameter): Name = ""; Value = "NMOS"; VariantName = "[No Variations]"

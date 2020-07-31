@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES_0402(1005metric) New Footprint=Res 0603 (1608 metric)
+Added Member To Class: ClassName=schem Member=Component C2 CAP
+Added Member To Class: ClassName=schem Member=Component D2 LED2
+Added Member To Class: ClassName=schem Member=Component P4 Header 7
+Added Member To Class: ClassName=schem Member=Component R3 RES
+Added Member To Class: ClassName=schem Member=Component U4 DMG2305UX
+Added Room: Name=schem

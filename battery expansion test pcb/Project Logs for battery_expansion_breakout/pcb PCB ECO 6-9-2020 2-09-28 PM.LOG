@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetP2_1 Pin=P4-6
+Removed Pin From Net: NetName=NetD1_1 Pin=P4-11
+Removed Pin From Net: NetName=NetD2_1 Pin=P4-12
+Change component parameters: Designator = "R8" ("R8"); Footprint = "Res 0603 (1608 metric)"; UniqueID = "\OCBFITFT" ("\OCBFITFT")
+Change component parameters (AddParameter): Name = "value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "Res 0603 (1608 metric)"; UniqueID = "\PTGEZFPT" ("\PTGEZFPT")
+Change component parameters (AddParameter): Name = "value"; Value = "150"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=P3-5
+Added Pin To Net: NetName=NetD2_1 Pin=P3-6
+Added Pin To Net: NetName=NetP2_1 Pin=P3-24
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=stat1-1
+Added Pin To Net: NetName=NetP3_2 Pin=U3-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=U5-2
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=U6-2
+Added Net: Name=NetP3_4

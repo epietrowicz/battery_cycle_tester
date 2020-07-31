@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Added Component: Designator=C?(Cap 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=GND?(test pad)
+Added Component: Designator=P?(JST-2 SMT)
+Added Component: Designator=R?(RES_0402(1005metric))
+Add component (AddParameter): Name = "value"; Value = "5K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT23127P600-8N)
+Added Component: Designator=U?(SOT105P240X110-3N)
+Added Component: Designator=U?(AP2120)
+Added Component: Designator=U?(SOT105P240X110-3N)
+Added Component: Designator=Vbatt?(test pad)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=GND?-1
+Added Pin To Net: NetName=NetC?_2 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetP?_14 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetP?_7 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetP?_7 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Pin To Net: NetName=NetP?_14 Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Added Pin To Net: NetName=NetC?_2 Pin=Vbatt?-1
+Added Member To Class: ClassName=schem Member=Component C? CAP
+Added Member To Class: ClassName=schem Member=Component C? CAP
+Added Member To Class: ClassName=schem Member=Component D? LED2
+Added Member To Class: ClassName=schem Member=Component GND? GND
+Added Member To Class: ClassName=schem Member=Component P? JST-2
+Added Member To Class: ClassName=schem Member=Component P? Header 14
+Added Member To Class: ClassName=schem Member=Component P? Header 14
+Added Member To Class: ClassName=schem Member=Component R? RES
+Added Member To Class: ClassName=schem Member=Component R? RES
+Added Member To Class: ClassName=schem Member=Component R? RES
+Added Member To Class: ClassName=schem Member=Component R? RES
+Added Member To Class: ClassName=schem Member=Component R? RES
+Added Member To Class: ClassName=schem Member=Component U? MCP73831
+Added Member To Class: ClassName=schem Member=Component U? DMG2305UX
+Added Member To Class: ClassName=schem Member=Component U? AP2120N
+Added Member To Class: ClassName=schem Member=Component U? DMG2305UX
+Added Member To Class: ClassName=schem Member=Component Vbatt? Vbatt_pos
+Added Room: Name=schem

@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=GND? NewDesignator=GND1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=Vbatt? NewDesignator=Vbatt1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP3_1
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP2_14
+Change Net Name : Old Net Name=NetP?_5 New Net Name=NetP2_13
+Change Net Name : Old Net Name=NetP?_6 New Net Name=NetP2_12
+Change Net Name : Old Net Name=NetP?_7 New Net Name=NetP3_7
+Change Net Name : Old Net Name=NetP?_14 New Net Name=NetP3_14
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU1_3
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U3-4
+Added Pin To Net: NetName=NetC1_2 Pin=U4-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=P3-3
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R5-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetP2_10 Pin=P2-10
+Added Pin To Net: NetName=NetP2_10 Pin=U3-1
+Added Net: Name=NetP2_10
+Added Pin To Net: NetName=NetP2_11 Pin=P2-11
+Added Pin To Net: NetName=NetP2_11 Pin=P4-2
+Added Net: Name=NetP2_11
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_5 Pin=R2-1
+Added Pin To Net: NetName=NetP3_5 Pin=U2-1
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Pin To Net: NetName=NetP3_9 Pin=U1-2
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=NetP3_12 Pin=P3-12
+Added Pin To Net: NetName=NetP3_12 Pin=P4-7
+Added Net: Name=NetP3_12
+Added Member To Class: ClassName=schem Member=Component C1 CAP
+Added Member To Class: ClassName=schem Member=Component D1 LED2
+Added Member To Class: ClassName=schem Member=Component P1 JST-2
+Added Member To Class: ClassName=schem Member=Component P2 Header 14
+Added Member To Class: ClassName=schem Member=Component P3 Header 14
+Added Member To Class: ClassName=schem Member=Component R1 RES
+Added Member To Class: ClassName=schem Member=Component R2 RES
+Added Member To Class: ClassName=schem Member=Component R4 RES
+Added Member To Class: ClassName=schem Member=Component R5 RES
+Added Member To Class: ClassName=schem Member=Component U1 AP2120N
+Added Member To Class: ClassName=schem Member=Component U2 DMG2305UX
+Added Member To Class: ClassName=schem Member=Component U3 MCP73831

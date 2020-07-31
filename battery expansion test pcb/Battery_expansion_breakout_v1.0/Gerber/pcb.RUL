@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\pietr\Documents\GitHub\Metallica_hardware\battery_expansion_breakout\pcb.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

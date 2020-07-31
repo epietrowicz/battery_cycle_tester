@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=P4-2
+Removed Pin From Net: NetName=NetD2_1 Pin=P4-3
+Removed Pin From Net: NetName=NetP2_1 Pin=P4-9
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Member From Class: ClassName=schem Member=P5
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X14 New Footprint=HDR1X24
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X14 New Footprint=HDR1X24
+Change Component Comment : Designator=P3 Old Comment=Header 14 New Comment=Header 24
+Change Component Comment : Designator=P4 Old Comment=Header 14 New Comment=Header 24
+Added Pin To Net: NetName=NetD1_1 Pin=P4-12
+Added Pin To Net: NetName=NetD2_1 Pin=P4-13
+Added Pin To Net: NetName=NetP2_1 Pin=P4-19
+Added Pin To Net: NetName=NetP4_15 Pin=P4-15
+Added Pin To Net: NetName=NetP4_15 Pin=R2-1
+Added Pin To Net: NetName=NetP4_15 Pin=U2-1
+Added Net: Name=NetP4_15
+Added Pin To Net: NetName=NetP4_17 Pin=P4-17
+Added Pin To Net: NetName=NetP4_17 Pin=R3-2
+Added Pin To Net: NetName=NetP4_17 Pin=U4-1
+Added Net: Name=NetP4_17
+Added Pin To Net: NetName=NetP4_21 Pin=P4-21
+Added Pin To Net: NetName=NetP4_21 Pin=U3-1
+Added Net: Name=NetP4_21
+Added Pin To Net: NetName=NetP4_24 Pin=P4-24
+Added Pin To Net: NetName=NetP4_24 Pin=R3-1
+Added Pin To Net: NetName=NetP4_24 Pin=U4-2
+Added Net: Name=NetP4_24

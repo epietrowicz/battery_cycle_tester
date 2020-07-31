@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ?_1 Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-5
+Removed Pin From Net: NetName=GND Pin=J?-S1
+Removed Pin From Net: NetName=GND Pin=J?-S2
+Removed Pin From Net: NetName=GND Pin=J?-S3
+Removed Member From Class: ClassName=schem Member=J?
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetP3_14
+Added Room: Name=schem

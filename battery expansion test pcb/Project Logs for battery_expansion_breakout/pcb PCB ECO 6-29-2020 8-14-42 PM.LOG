@@ -1,0 +1,8 @@
+Added Component: Designator=R4(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res 0603 (1608 metric))
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetP3_2 Pin=R4-2
+Added Pin To Net: NetName=NetP3_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2

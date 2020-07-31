@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\pietr\Documents\GitHub\Metallica_hardware\4. Testing\1. Metallica\battery expansion test pcb\Project Outputs for battery_expansion_breakout\Pick Place\Pick Place for pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/07/20
+Time:       09:15
+Revision:   b3b054cd012260d0ad764be9e8639ae2c67769f9
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                  
+R8         RES         TopLayer Res_0603_(1608_metric) 1417.323      2120.079      90       ""                                           
+STAT       charge_stat TopLayer test_pad               1397.638      157.480       90       "test pad"                                   
+R13        RES         TopLayer Res_0603_(1608_metric) 1214.567      472.441       360      ""                                           
+R12        RES         TopLayer Res_0603_(1608_metric) 1214.567      614.173       180      ""                                           
+R9         RES         TopLayer Res_0603_(1608_metric) 1488.189      2120.079      90       ""                                           
+C3         CAP         TopLayer Cap_0603_(1608_metric) 1811.024      1100.394      90       ""                                           
+P5         "Header 3"  TopLayer HDR1X3                 1811.024      1326.772      90       "Header, 3-Pin"                              
+U2         DMG2305UX   TopLayer SOT105P240X110-3N      1622.047      551.181       180      P-MOSFET                                     
+U6         DMN63D8LW   TopLayer DMN63D8LW              1649.606      1720.472      360      "N-MOSFET SOT-323"                           
+U5         DMN63D8LW   TopLayer DMN63D8LW              1098.425      948.819       0        "N-MOSFET SOT-323"                           
+R7         RES         TopLayer Res_0603_(1608_metric) 1789.370      1720.472      180      ""                                           
+R6         RES         TopLayer Res_0603_(1608_metric) 1527.559      1718.504      270      ""                                           
+R5         RES         TopLayer Res_0603_(1608_metric) 1224.409      919.291       90       ""                                           
+R4         RES         TopLayer Res_0603_(1608_metric) 976.378       946.850       270      ""                                           
+BATT       Vbatt_pos   TopLayer test_pad               1566.929      240.157       90       "test pad"                                   
+U1         MCP73831    TopLayer SOT23127P600-8N        1377.953      551.181       0        "Li-Charge Management Controllers"           
+U4         DMG2305UX   TopLayer SOT105P240X110-3N      1645.669      1984.252      0        P-MOSFET                                     
+U3         AP2120N     TopLayer AP2120                 1594.488      2311.024      270      "3.0V regulator"                             
+R11        RES         TopLayer Res_0603_(1608_metric) 1419.291      1468.504      180      ""                                           
+R10        RES         TopLayer Res_0603_(1608_metric) 1419.291      1208.661      180      ""                                           
+R2         RES         TopLayer Res_0603_(1608_metric) 1771.653      549.212       270      ""                                           
+R3         RES         TopLayer Res_0603_(1608_metric) 1488.189      1994.094      270      ""                                           
+R1         RES         TopLayer Res_0603_(1608_metric) 1588.583      677.165       360      ""                                           
+P4         "Header 24" TopLayer HDR1X24                196.850       1346.850      90       "Header, 24-Pin"                             
+P3         "Header 24" TopLayer HDR1X24                796.850       1346.850      90       "Header, 24-Pin"                             
+P2         "Header 2"  TopLayer HDR1X2                 1811.024      2530.315      90       "Header, 2-Pin"                              
+P1         JST-2       TopLayer JST-2_SMT              1122.047      2608.760      0        JST-2                                        
+GND        GND         TopLayer test_pad               1397.638      240.157       90       "test pad"                                   
+D2         LED2        TopLayer 3.2X1.6X1.1            1082.677      1468.504      360      "Typical RED, GREEN, YELLOW, AMBER GaAs LED" 
+D1         LED2        TopLayer 3.2X1.6X1.1            1082.677      1208.661      360      "Typical RED, GREEN, YELLOW, AMBER GaAs LED" 
+C2         CAP         TopLayer Cap_0603_(1608_metric) 1338.583      383.858       90       ""                                           
+C1         CAP         TopLayer Cap_0603_(1608_metric) 1421.260      383.858       90       ""                                           

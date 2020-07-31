@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=schem Member=J
+Added Component: Designator=J?(*MOLEX_105133-0001_105133-0001(Primary))
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "WM9734CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/molex/1051330001/WM9734CT-ND/4037910?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1051330001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1051330001/Molex/view-part/423273/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP3_14 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S3
+Change Net Name : Old Net Name=NetP3_14 New Net Name=NetJ?_1
+Added Member To Class: ClassName=schem Member=Component J? 105133-0001
+Added Room: Name=schem

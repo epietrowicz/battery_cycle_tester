@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=Vbatt NewDesignator=Vbatt1
+Added Component: Designator=stat1(test pad)
+Added Pin To Net: NetName=NetP4_4 Pin=stat1-1
